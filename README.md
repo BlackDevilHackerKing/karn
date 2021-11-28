@@ -24,20 +24,4 @@ pip install bs4
 
 pip install requests  
 
-pip install mechanize  
-
-pip install futures
-
-rm -rf FbCr4ck
-
-git clone https://github.com/AngCyber/FbCr4ck
-
-________________
-
-# Run Script  
-
-cd FbCr4ck
-
-ls
-
-python Cr4ck.py
+pip install 
